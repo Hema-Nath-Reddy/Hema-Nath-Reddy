@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hema Nath Reddy and welcome to my github account. Feel free to explore, there is source code of tons of fun project I have worked on with more on the way.</p>
+<p align="left">I am Hema Nath Reddy and welcome to my github account. Feel free to explore, there is source code of tons of fun project I have worked on with more on the way.</p>
 
 ###
 
